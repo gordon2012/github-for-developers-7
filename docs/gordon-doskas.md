@@ -3,3 +3,4 @@ This is my bio:
 * Origin: Canada
 * Favorite Food: Pizza
 * Hobby: Watching Marvel Cinematic Universe Movies
+* Color: Green
